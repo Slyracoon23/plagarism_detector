@@ -3,16 +3,14 @@ layout: engineering-education
 status: publish
 published: true
 slug: Plagirsim detection
-title: Computer Vision - Straight Lines
-description: Computer vision is how computers can identify high-level information from images or videos. This article explores one of the more basic algorithms in computer vision – finding straight lines in images.
-author: zack-jorquera
+title: Plagarism Detection
+description: Plagarism Detection is how one can compare two documents and find out how simular they are. This article explores one of the more basic algorithms in finding the simularity of a document.
+author: earl-potters
 date: 2020-05-19T00:00:00-07:00
 topics: []
 excerpt_separator: <!--more-->
 images:
 
-  - url: /engineering-education/computer-vision-straight-lines/hero.png
-    alt: computer vision straight lines
 ---
 
 
